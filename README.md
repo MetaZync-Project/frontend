@@ -2,14 +2,14 @@
 
 This is the **frontend** part of the Cleaning Service Management System built using React and Material UI. It allows users to browse services, make bookings, and interact with the system through a user-friendly interface.
 
-## 📦 Technologies Used
+## Technologies Used
 
 - React
 - Axios
 - React Router
 - Material UI
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the RepositoryOpen src/api.js and add this line to set the base URL for API calls:
 
